@@ -16,7 +16,7 @@ This repository contains a website for a construction company with six interconn
 
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/68999346/197038668-b5a54c37-17c6-40d6-ade0-3c83b349ead7.png">  -----  <img width="360" alt="image" src="https://user-images.githubusercontent.com/68999346/197038899-cc7eec57-2b2a-4899-befe-fca6a07704b8.png">
 
-More in 'Website in PDF'.
+More in `Website in PDF`.
 
 ## Instructions
 
